@@ -66,5 +66,4 @@ I'm currently studying on a course __RS Schools Course «JavaScript/Front-end. S
 __Level A2__
 I'm currently taking an ABBA ENGLISH level B1
 
-[logo]: https://github.com/HelgaZhizhka/rsschool-cv/tree/gh-pages/images/foto.png "Olga Zhyzhka"
-[project]: https://github.com/HelgaZhizhka/static-multi-html-webpack "personal github project"
+[logo]: images/foto.png "Olga Zhyzhka"
