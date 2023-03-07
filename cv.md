@@ -3,7 +3,6 @@
 # Olga Zhyzhka
 ## Frontend developer
 [Webpack5 multi-page template](https://github.com/HelgaZhizhka/static-multi-html-webpack)
-***
 
 ### Contact with me
 * **Email:** helgazhyzhka@gmail.com
@@ -12,7 +11,6 @@
 * <a href="https://www.linkedin.com/in/helgazhyzhka/" target="_blank">LinkedIn</a>
 * <a href="https://github.com/HelgaZhizhka" target="_blank">Github</a>
 
-***
 ## About me
 I work as a frontend developer since 2015. Became a web developer at age 36  I work remotely at the moment with a Russian-speaking development team. During this time I was engaged in both layout of sites of varying complexity, and the development of sites using Vue.js. Constantly learning and developing. At the moment I'm studying React. Now I'm also mentoring beginner developers. I like to help others learn and share my experiences. I want to become a mentor on the RS School Community. 
 ## Skills
