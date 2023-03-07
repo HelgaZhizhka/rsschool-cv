@@ -4,6 +4,8 @@
 ## Frontend developer
 [Webpack5 multi-page template](https://github.com/HelgaZhizhka/static-multi-html-webpack)
 
+***
+
 ### Contact with me
 * **Email:** helgazhyzhka@gmail.com
 * **Telegram:** @helgaj
